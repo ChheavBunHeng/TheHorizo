@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheHorizo
 - 👀 I’m interested in programming or basically anything that related to technology
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on many project of which hopfully it maybe usful for someone 
 - 📫 How to reach me 
 
